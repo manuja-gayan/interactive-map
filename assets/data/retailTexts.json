@@ -1,0 +1,38 @@
+{
+    "topic": "Retail Stores",
+    "TextAreaSmallWithClip": [
+        "70%",
+        "of energy in retail is consumed by HVAC and lighting"
+    ],
+    "TextAreaWithClipMain": {
+        "texts": [],
+        "topic": "Turntide for Retail Stores",
+        "description": "Maximize energy efficiency and lower operating costs with smart equipment, controls, and insights"
+    },
+    "TextAreaWithClipEnergySaving": {
+        "texts": [
+            [
+                "DECORATEDTEXT",
+                "Locations:",
+                " 400+"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Energy reduction:",
+                " 60% annually"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Time to payback:",
+                " 3 years"
+            ]
+        ],
+        "topic": "Wilko",
+        "description": "Retail Stores"
+    },
+    "subTopics": [
+        "Smart Motor System ™",
+        "Case Study",
+        "Turntide App"
+    ]
+}

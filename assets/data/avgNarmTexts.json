@@ -1,0 +1,46 @@
+{
+    "topic": "Material Handling",
+    "TextAreaWithClipMain": {
+        "texts": [],
+        "topic": "Turntide for Material Handling",
+        "description": "/We offer Lithium-ion batteries to increase the productivity of your warehouse or distribution center material handling equipment by minimizing downtime and taking advantage of opportunity charging."
+    },
+    "subTopics": [
+        "Battery Packs"
+    ],
+    "subTopicsInside": [
+        {
+            "topic": "High Performance Lithium-ion NMB battery",
+            "subTopic": "With intelligent built-in battery management",
+            "descriptioTexts": [
+                [
+                    "TEXT",
+                    "High energy density"
+                ],
+                [
+                    "TEXT",
+                    "Flexible & scalable modular design"
+                ],
+                [
+                    "TEXT",
+                    "For rapid deployment & volume manufacture"
+                ],
+                [
+                    "HYPERLINK",
+                    "Find out more...",
+                    "https://turntide.com/wp-content/uploads/2022/08/All-Vehicle-Batteries.pdf"
+                ]
+            ],
+            "blocks": [
+                {
+                    "topic": "48-630V",
+                    "description": "Series system voltage"
+                },
+                {
+                    "topic": "4.97-700kWh",
+                    "description": "Capacity"
+                }
+            ]
+        }
+    ]
+}

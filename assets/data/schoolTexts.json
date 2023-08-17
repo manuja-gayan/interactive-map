@@ -1,0 +1,38 @@
+{
+    "topic": "Schools",
+    "TextAreaSmallWithClip": [
+        "64%",
+        "of energy in schools is consumed by HVAC and lighting"
+    ],
+    "TextAreaWithClipMain": {
+        "texts": [],
+        "topic": "Turntide for Schools",
+        "description": "Maximize energy efficiency and lower operating costs with smart equipment, controls, and insights"
+    },
+    "TextAreaWithClipEnergySaving": {
+        "texts": [
+            [
+                "DECORATEDTEXT",
+                "Energy Savings:",
+                " 87% baseline motor"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Energy Savings:",
+                " 34% VFD retrofits"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Time to payback:",
+                " 3.1 years"
+            ]
+        ],
+        "topic": "Leading National University",
+        "description": "School Gymnasium"
+    },
+    "subTopics": [
+        "Smart Motor System ™",
+        "Case Study",
+        "Turntide App"
+    ]
+}

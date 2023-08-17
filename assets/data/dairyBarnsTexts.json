@@ -1,0 +1,18 @@
+{
+    "topic": "Dairy Barns",
+    "TextAreaWithClipMain": {
+        "texts": [],
+        "topic": "Turntide Intelligent Barn",
+        "description": "Maximize energy efficiency and lower operating costs with smart equipment, controls, and insights"
+    },
+    "TextAreaWithClipEnergySaving": {
+        "texts": [],
+        "topic": "",
+        "description": ""
+    },
+    "subTopics": [
+        "TX Motor",
+        "DairyBOS®",
+        "Tractors"
+    ]
+}

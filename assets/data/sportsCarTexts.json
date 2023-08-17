@@ -1,0 +1,92 @@
+{
+    "topic": "Sports Cars",
+    "TextAreaWithClipMain": {
+        "texts": [],
+        "topic": "Turntide for EVs",
+        "description": "High performance motors and inverters featuring class leading power density (35kW/l for inverters, 6kW/kg for motors) and high levels of functional safety."
+    },
+    "subTopics": [
+        "Inverters",
+        "Motors"
+    ],
+    "subTopicsInside": [
+        {
+            "topic": "High Voltage High Power Inverters",
+            "subTopic": "Commercially available design for any automotive application",
+            "descriptioTexts": [
+                [
+                    "TEXT",
+                    "Proven design allows fast implementation"
+                ],
+                [
+                    "TEXT",
+                    "Reduction in validation test programs"
+                ],
+                [
+                    "TEXT",
+                    "ISO26262 ASIL-D guaranteed safety standards"
+                ],
+                [
+                    "HYPERLINK",
+                    "Find out more...",
+                    "https://turntide.com/wp-content/uploads/2022/08/All-Vehicle-Inverters.pdf"
+                ]
+            ],
+            "blocks": [
+                {
+                    "topic": "800V",
+                    "description": "MAXIMUM VOLTAGE"
+                },
+                {
+                    "topic": "35kW/l",
+                    "description": "PEAK POWER DENSITIES"
+                },
+                {
+                    "topic": "300kW",
+                    "description": "PEAK POWER LEVEL"
+                },
+                {
+                    "topic": "25kW/kg",
+                    "description": "POWER TO WEIGHT"
+                }
+            ]
+        },
+        {
+            "topic": "High Power Density Motors",
+            "subTopic": "For powertrain traction, generator and cooling fan operations",
+            "descriptioTexts": [
+                [
+                    "TEXT",
+                    "Proven reliability"
+                ],
+                [
+                    "TEXT",
+                    "Flexible, stackable design"
+                ],
+                [
+                    "TEXT",
+                    "Excellent power & torque density for small spaces"
+                ],
+                [
+                    "HYPERLINK",
+                    "Find out more...",
+                    "https://turntide.com/wp-content/uploads/2022/08/All-Vehicle-Motors.pdf"
+                ]
+            ],
+            "blocks": [
+                {
+                    "topic": "800V",
+                    "description": "MAXIMUM BATTERY VOLTAGE"
+                },
+                {
+                    "topic": "100-800kW",
+                    "description": "7 SIZES AVAILABLE"
+                },
+                {
+                    "topic": "96%",
+                    "description": "PEAK EFFICIENCY"
+                }
+            ]
+        }
+    ]
+}

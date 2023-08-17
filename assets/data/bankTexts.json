@@ -1,0 +1,43 @@
+{
+    "topic": "Banks",
+    "TextAreaSmallWithClip": [
+        "40-60%",
+        "of energy in bank branches is consumed by HVAC and lighting"
+    ],
+    "TextAreaWithClipMain": {
+        "texts": [],
+        "topic": "Turntide for Banks",
+        "description": "Maximize energy efficiency and lower operating costs with smart equipment, controls, and insights"
+    },
+    "TextAreaWithClipEnergySaving": {
+        "texts": [
+            [
+                "DECORATEDTEXT",
+                "Locations:",
+                " 300+"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Energy reduction:",
+                " 15%"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Annual savings:",
+                " $500k"
+            ],
+            [
+                "HYPERLINK",
+                "Read Case Study >",
+                "https://turntide.com/wp-content/uploads/2021/10/Case-Study-Fifth-Third-Bank_v07.pdf"
+            ]
+        ],
+        "topic": "Fifth Third Bank",
+        "description": "Retail branch locations"
+    },
+    "subTopics": [
+        "Smart Motor System ™",
+        "Case Study",
+        "Turntide App"
+    ]
+}

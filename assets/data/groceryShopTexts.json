@@ -1,0 +1,48 @@
+{
+    "topic": "Grocery Stores",
+    "TextAreaSmallWithClip": [
+        "50%",
+        "of energy in grocery stores is consumed by HVAC and lighting"
+    ],
+    "TextAreaWithClipMain": {
+        "texts": [],
+        "topic": "Turntide for Grocery Stores",
+        "description": "Maximize energy efficiency and lower operating costs with smart equipment, controls, and insights"
+    },
+    "TextAreaWithClipEnergySaving": {
+        "texts": [
+            [
+                "DECORATEDTEXT",
+                "Energy reduction:",
+                " 75% annually"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Annual savings:",
+                " $18.4K per location"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Energy saved:",
+                " 153,649 KWH"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Time to payback:",
+                " 1.37 years"
+            ],
+            [
+                "HYPERLINK",
+                "Read Case Study >",
+                "https://turntide.com/wp-content/uploads/2021/09/TT-Case-Study-Sprouts_v04TL.pdf"
+            ]
+        ],
+        "topic": "Sprouts",
+        "description": "Grocery Store"
+    },
+    "subTopics": [
+        "Smart Motor System ™",
+        "Case Study",
+        "Turntide App"
+    ]
+}

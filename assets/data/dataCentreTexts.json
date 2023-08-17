@@ -1,0 +1,38 @@
+{
+    "topic": "Data Centers",
+    "TextAreaSmallWithClip": [
+        "37%",
+        "of energy in data centers is consumed by HVAC and lighting"
+    ],
+    "TextAreaWithClipMain": {
+        "texts": [],
+        "topic": "Turntide for Data Centers",
+        "description": "Maximize energy efficiency and lower operating costs with smart equipment, controls, and insights"
+    },
+    "TextAreaWithClipEnergySaving": {
+        "texts": [
+            [
+                "DECORATEDTEXT",
+                "Fan energy savings:",
+                " 25%"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Energy savings:",
+                " 1 Million+ KWH"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Energy rebate: ",
+                " Qualified for $200K"
+            ]
+        ],
+        "topic": "Large Data Center",
+        "description": "Air-cooled hot/cold aisle design"
+    },
+    "subTopics": [
+        "Smart Motor System ™",
+        "Case Study",
+        "Turntide App"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "topic": "Quick Serve Restaurants",
+    "TextAreaSmallWithClip": [
+        "28%",
+        "HVAC represents 28% of a restaurant's energy costs on average"
+    ],
+    "TextAreaWithClipMain": {
+        "texts": [],
+        "topic": "Turntide for Restaurants",
+        "description": "Maximize energy efficiency and lower operating costs with smart equipment, controls, and insights"
+    },
+    "TextAreaWithClipEnergySaving": {
+        "texts": [
+            [
+                "DECORATEDTEXT",
+                "Energy reduction:",
+                " 70% annually"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Annual savings:",
+                " $2.3K per location"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Energy saved:",
+                " 19,174 KWH"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Time to payback:",
+                " 1.6 years"
+            ],
+            [
+                "HYPERLINK",
+                "Read Case Study >",
+                "https://turntide.com/wp-content/uploads/2021/09/TT-Case-Study-Five-Guys_v04TL.pdf"
+            ]
+        ],
+        "topic": "Five Guys",
+        "description": "Quick Serve Restaurant"
+    },
+    "subTopics": [
+        "Smart Motor System ™",
+        "Case Study",
+        "Turntide App"
+    ]
+}

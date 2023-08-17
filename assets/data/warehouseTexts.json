@@ -1,0 +1,38 @@
+{
+    "topic": "Warehouses",
+    "TextAreaSmallWithClip": [
+        "75%",
+        "of energy in warehouses and distribution centers is consumed by HVAC and lighting"
+    ],
+    "TextAreaWithClipMain": {
+        "texts": [],
+        "topic": "Turntide for Warehouses",
+        "description": "Maximize energy efficiency and lower operating costs with smart equipment, controls, and insights"
+    },
+    "TextAreaWithClipEnergySaving": {
+        "texts": [
+            [
+                "DECORATEDTEXT",
+                "Motor energy savings:",
+                " 78%"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Energy saved annually:",
+                " 224,162 KWH"
+            ],
+            [
+                "DECORATEDTEXT",
+                "Time to payback:",
+                " 1.4 years"
+            ]
+        ],
+        "topic": "Ecommerce Warehouse",
+        "description": "Major Distribution and Fulfillment Center"
+    },
+    "subTopics": [
+        "Smart Motor System ™",
+        "Case Study",
+        "Turntide App"
+    ]
+}

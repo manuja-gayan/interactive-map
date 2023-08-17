@@ -1,0 +1,158 @@
+{
+    "topic": "Excavators",
+    "TextAreaWithClipMain": {
+        "texts": [
+            [
+                "HYPERLINK",
+                "Case study",
+                "https://turntide.com/wp-content/uploads/2022/08/Case-Study-Mini-Excavator_v07JCB-1.pdf"
+            ]
+        ],
+        "topic": "Turntide for Construction",
+        "description": "Designing and manufacturing construction equipment?  We'll help you electrify your excavators or backhoes and get you to market quickly and easily with a fully scalable electrified powertrain solution."
+    },
+    "subTopics": [
+        "Motors",
+        "Battery Packs",
+        "Inverters",
+        "DC/DC Convertors"
+    ],
+    "subTopicsInside": [
+        {
+            "topic": "High Power Density Motors",
+            "subTopic": "For powertrain traction, generator and cooling fan operations",
+            "descriptioTexts": [
+                [
+                    "TEXT",
+                    "Proven reliability"
+                ],
+                [
+                    "TEXT",
+                    "Flexible, stackable design"
+                ],
+                [
+                    "TEXT",
+                    "Excellent power & torque density for small spaces"
+                ],
+                [
+                    "HYPERLINK",
+                    "Find out more...",
+                    "https://turntide.com/wp-content/uploads/2022/08/All-Vehicle-Motors.pdf"
+                ]
+            ],
+            "blocks": [
+                {
+                    "topic": "800V",
+                    "description": "MAXIMUM BATTERY VOLTAGE"
+                },
+                {
+                    "topic": "100-800kW",
+                    "description": "7 SIZES AVAILABLE"
+                },
+                {
+                    "topic": "96%",
+                    "description": "PEAK EFFICIENCY"
+                }
+            ]
+        },
+        {
+            "topic": "High Performance Lithium-ion NMB battery",
+            "subTopic": "With intelligent built-in battery management",
+            "descriptioTexts": [
+                [
+                    "TEXT",
+                    "High energy density"
+                ],
+                [
+                    "TEXT",
+                    "Flexible & scalable modular design"
+                ],
+                [
+                    "TEXT",
+                    "For rapid deployment & volume manufacture"
+                ],
+                [
+                    "HYPERLINK",
+                    "Find out more...",
+                    "https://turntide.com/wp-content/uploads/2022/08/All-Vehicle-Batteries.pdf"
+                ]
+            ],
+            "blocks": [
+                {
+                    "topic": "48-630V",
+                    "description": "Series system voltage"
+                },
+                {
+                    "topic": "4.97-700kWh",
+                    "description": "Capacity"
+                }
+            ]
+        },
+        {
+            "topic": "Low Voltage Inverters",
+            "subTopic": "Powering mainstream EV's for over 10 years",
+            "descriptioTexts": [
+                [
+                    "TEXT",
+                    "Supports a wide range of motor types"
+                ],
+                [
+                    "TEXT",
+                    "Highly configurable operation & communications"
+                ],
+                [
+                    "HYPERLINK",
+                    "Find out more...",
+                    "https://turntide.com/wp-content/uploads/2022/08/All-Vehicle-Inverters.pdf"
+                ]
+            ],
+            "blocks": [
+                {
+                    "topic": "900A",
+                    "description": "PEAK CURRENT"
+                },
+                {
+                    "topic": "48-110V",
+                    "description": "OPERATING VOLTAGE"
+                }
+            ]
+        },
+        {
+            "topic": "DC/DC Convertors",
+            "subTopic": "Product range for low voltage electrification applications",
+            "descriptioTexts": [
+                [
+                    "TEXT",
+                    "Low voltage and high voltage options"
+                ],
+                [
+                    "TEXT",
+                    "Can convert batteries to lower voltages"
+                ],
+                [
+                    "TEXT",
+                    "Powers vehicle ancillaries such as lights & radios"
+                ],
+                [
+                    "HYPERLINK",
+                    "Find out more...",
+                    "https://turntide.com/wp-content/uploads/2022/08/All-Vehicle-DCDCs.pdf"
+                ]
+            ],
+            "blocks": [
+                {
+                    "topic": "12-14V",
+                    "description": "OUTPUT VOLTAGE"
+                },
+                {
+                    "topic": "500kW",
+                    "description": "POWER OUTPUT"
+                },
+                {
+                    "topic": "48 to 96V",
+                    "description": "OPERATING VOLTAGES"
+                }
+            ]
+        }
+    ]
+}
